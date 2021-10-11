@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChaosKnight77
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m a Web Developer/Designer.
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Website Building
 - 📫 How to reach me tojo.joseph18@gmail.com
 
